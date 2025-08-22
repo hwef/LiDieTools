@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File (Virtual Env)",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "env": {
+                "PYTHONPATH": "${workspaceFolder};${workspaceFolder}/src;${workspaceFolder}/datagen"
+            },
+            "python": "${command:python.interpreterPath}"
+        }
+    ]
+}

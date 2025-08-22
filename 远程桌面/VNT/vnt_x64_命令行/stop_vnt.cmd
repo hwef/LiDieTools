@@ -1,0 +1,1 @@
+cmd vnt-cli.exe --stop

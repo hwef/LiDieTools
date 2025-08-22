@@ -1,0 +1,3 @@
+vn-link-cli -k token -n cejian -w password -W
+
+vnt-cli -k token -n cejian -w password -W
