@@ -1,0 +1,1 @@
+D:\Codes\mcp\venv\Scripts\python.exe d:/Codes/mcp/my_mcp_server/AnythingLLM_MCP/sse/anythingllmmcp/server_v2.py
